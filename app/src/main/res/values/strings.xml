@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Developer Assignment - Capsule App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="move_to_next_screen">Move to next screen</string>
+    <string name="notes_text">Show off your knowledge of pop culture, history, and tons of other topics in our quiz games! Impress your friends and family while you compete against them and attempt to earn an awesome high-score. You can also challenge other players from all around the world. Many of these brain games will test your trivia skills, but there are others that will put you in front of a drawing board. Will you earn lots of points and blast past your opponents in really fun games like Draw.io? There are lots of educational games in this collection, too. Find out how much you know about animals, fashion, and lots of other stuff or improve your vocabulary and spelling skills. There are plenty of fun and even romantic titles as well. You can learn more about your personality, or if your secret crush really is the right person for you. All this and more awaits you in these fantastic and totally free online games. Show off your knowledge of pop culture, history, and tons of other topics in our quiz games! Impress your friends and family while you compete against them and attempt to earn an awesome high-score. You can also challenge other players from all around the world. Many of these brain games will test your trivia skills, but there are others that will put you in front of a drawing board. Will you earn lots of points and blast past your opponents in really fun games like Draw.io? There are lots of educational games in this collection, too. Find out how much you know about animals, fashion, and lots of other stuff or improve your vocabulary and spelling skills. There are plenty of fun and even romantic titles as well. You can learn more about your personality, or if your secret crush really is the right person for you. All this and more awaits you in these fantastic and totally free online games.
+    </string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="_60">60</string>
+    <string name="time">Time</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="_0">0</string>
+    <string name="correct_answer">Correct Answer</string>
+</resources>
